@@ -27,4 +27,10 @@ class product{
     System.out.println("product name"+lowest.pname);
     System.out.println("product price"+lowest.price);
     }
+
 }
+OUTPUT:
+product with lowest price:
+Product code103
+Product namePencil
+price5
