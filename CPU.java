@@ -48,8 +48,9 @@ class CPU {
         ram.display();
     }
 }
+
 /*CPU Price: 55000.0
 Processor Cores: 8
 Processor Manufacturer: Intel
 RAM Memory: 16 GB
-RAM Manufacturer: Corsair*/
+RAM Manufacturer: Corsair */
