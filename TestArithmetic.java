@@ -18,3 +18,12 @@ public class TestArithmetic {
         System.out.println("Division: " + num1 + " / " + num2 + " = " + divide.calculate(num1, num2));
     }
 }
+/*
+PS C:\Users\MCA\Desktop\gk java>  javac TestArithmetic.java
+PS C:\Users\MCA\Desktop\gk java>  java TestArithmetic      
+Given Numbers: 20.0 and 4.0
+
+Addition: 20.0 + 4.0 = 24.0
+Subtraction: 20.0 - 4.0 = 16.0
+Multiplication: 20.0 * 4.0 = 80.0
+Division: 20.0 / 4.0 = 5.0*/
